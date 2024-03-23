@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+.img1{
+    width: 450px;
+    border-radius: 180px;
+}
+.text{
+    margin-top: 90px;
+}
+.studen{
+    text-align: right !important;
+}
+.btnn{
+    margin-top: 40px;
+    background-color: #49BBBD;
+    border:0;
+    border-radius: 2px;
+    color: #ffffff !important;
+    width: 30px;
+    height: 32px;
+    margin: 5px;
+}

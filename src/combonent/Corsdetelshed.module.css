@@ -1,0 +1,46 @@
+.bigimg{
+    width: 100%;
+}
+.card{
+   margin-top: -240px !important;
+}
+.btnn{
+    background-color: #e5e5e5;
+    border:0;
+    border-radius: 8px;
+    color: #ffffff !important;
+    width: 110px;
+    height: 35px;
+    margin: 5px;
+}
+.cardimg{
+    width: 90%;
+    margin-top: 140px;
+    border-radius: 10px;
+}
+.cardimg2{
+width: 40px;
+padding: 5px;
+}
+.botomtext{
+    display: flex;
+    color: #808080;
+}
+.btnn:hover{
+    background-color: #49BBBD;
+    border:0;
+    border-radius: 8px;
+    color: #ffffff !important;
+    width: 110px;
+    height: 35px;
+    margin: 5px;
+}
+
+.btn{
+    width:250px;
+    height: 35px;
+    background-color: #49BBBD;
+    border:0;
+    border-radius: 8px;
+    color: #ffffff !important;
+}

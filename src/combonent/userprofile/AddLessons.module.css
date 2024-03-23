@@ -1,0 +1,38 @@
+
+.container {
+    width: 100%;
+    margin: auto;
+    padding: 0 1rem;
+  }
+
+  .inpo{
+    display: block;
+    border-radius: 80px;
+    border: 2 solid;
+    height: 33px;
+    border-color: #49BBBD;
+  }
+  .inpo2{
+    display: block;
+    border-radius: 80px;
+    height: 70px;
+    width: 800px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    color: #49BBBD;
+    border: 1px solid !important;
+    border-color: #49BBBD !important;
+  }
+  .inpo3{
+    display: block;
+    border-radius: 30px;
+    height: 130px;    
+    background-color: #d0d2db;
+    text-align:center;
+    border: 2 solid;
+    border-color: #49BBBD;
+  }
+  
+  

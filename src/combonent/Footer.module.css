@@ -1,0 +1,45 @@
+footer{
+    background-color: #252641 !important;
+    color: aliceblue !important;
+}
+.logo{
+    width: 80px;
+}
+.inpo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.line{
+    width: 10px !important;
+    height: 100%;
+    background-color:#49BBBD ;
+
+}
+.form1{
+    height: 40px;
+    background-color:  #252641;
+    border: 1 aliceblue;
+    color: aliceblue;
+    width: 480px;
+    border-radius: 20px;
+}
+.footerlink{
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.btn{
+    color: aliceblue;
+    width: 250px;
+    margin-left: 10px;
+    height: 40px;
+    border: 0;
+    background-color:#49BBBD ;
+    border-radius: 20px;
+}
+.footerboton{
+    margin-top: 15px;
+}

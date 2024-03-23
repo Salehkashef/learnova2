@@ -1,0 +1,51 @@
+.linkes{
+    color: #49BBBD !important;
+}
+
+.container{
+    background-color: #ebf5ff;
+}
+.cards{
+    max-height: 1100px;
+    min-height: 600px;
+}
+.btnn{
+    background-color: #49BBBD;
+    border:0;
+    border-radius: 2px;
+    color: #ffffff !important;
+    width: 30px;
+    height: 32px;
+    margin: 5px;
+}
+.lin{
+    text-decoration: line-through;
+    margin-right: 5px;
+    color: #808080;
+}
+.online{
+    color: #ffffff;
+    background-color: #252641;
+    border-radius: 20px;
+    height: 250px;
+   
+
+    align-items: center;
+    text-align: center;
+    padding-top: 15px;
+}
+.onlinebtn{
+    border-radius: 10px;
+    border: 0;
+    background-color: #49bbbd;
+    color: #ffffff;
+    height: 34px;
+    margin-bottom: 15px;
+}
+.botomtext{
+    max-width: 40rem;
+    min-height: 140px;
+    /* margin: 4rem auto; */
+    /* background-color: #49bbbd; */
+    padding: 1rem;
+}

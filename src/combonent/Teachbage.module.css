@@ -1,0 +1,33 @@
+.img1{
+    width: 560px !important; 
+}
+.btn{ 
+    width: 120px;
+    height: 40px;
+    background-color: #49BBBD;
+    border:0;
+    border-radius: 8px;
+    color: #ffffff !important; 
+}
+.text{
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.hedtext{
+   font-size: 45px;
+   font-weight: 600;
+   margin-bottom: 35px;
+}
+.headtext{
+   font-size: 45px;
+   font-weight: 600;
+}
+.cardimg{
+   /* margin-left: 120px; */
+    width: 140px;
+    margin-bottom: 40px;
+}
+.card{
+   border: 0;
+}

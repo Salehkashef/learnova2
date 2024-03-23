@@ -1,0 +1,46 @@
+.bought{
+    margin: 50px;
+}
+.botons{
+    margin-right: 65px;
+}
+
+.btnn{
+    background-color: #49BBBD;
+    border:0;
+    border-radius: 2px;
+    color: #ffffff !important;
+    width: 30px;
+    height: 32px;
+    margin: 5px;
+}
+.btnn img{
+    color: #ffffff !important;
+}
+.card{
+    width: 90%;
+    border-radius:20px ;
+    padding: 15px;
+}
+.cardimg{
+    display: flex;
+    width: 90%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.cardimg2{
+    width: 40px;
+    padding: 5px;
+    }
+.botomtext{
+    display: flex;
+    color: #808080;
+}
+.lin{
+    text-decoration: line-through;
+    margin-right: 5px;
+    color: #808080;
+}
+.linkes{
+    color: #49BBBD !important;
+}

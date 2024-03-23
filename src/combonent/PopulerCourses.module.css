@@ -1,0 +1,25 @@
+.pcards{
+    width: 200px;
+    height: 300px;
+}
+.pcard{
+    width: 150px;
+}
+.pimg{
+  border-radius: 8px;
+  width: 150px;
+}
+.pabout{
+    font-size: 8px;
+    font-weight: 400;  
+}
+.abtn{
+    background-color: #4682A9;
+    color: white;
+    font-size: 10px;
+    font-weight:bold;
+    margin-top: 12px;
+    margin-left: -40px;
+    height: 25px;
+    width: 80px;
+}

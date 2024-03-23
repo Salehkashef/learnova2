@@ -1,0 +1,16 @@
+.userimage {
+  width: 128px;
+  height: 128px;
+}
+
+.updateicon {
+  width: 24px;
+  height: 24px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.updateicon:hover {
+  background-color: #cccccc;
+}

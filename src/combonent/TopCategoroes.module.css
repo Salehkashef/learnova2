@@ -1,0 +1,14 @@
+.timg{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px !important;
+    margin-left: 120px;
+}
+.card{
+    color: aliceblue;
+    background-color: #252641 !important;
+}
+.timgi{
+    width: 30px !important;
+    height: 30px !important;
+}

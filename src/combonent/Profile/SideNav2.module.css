@@ -1,0 +1,35 @@
+.sidenav {
+    background-color: #252641;
+    padding: 20px;
+    height: 100%;
+    width:280px ;
+  }
+  .sidenav img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .sidenav h1 {
+    margin: 10px 0;
+  }
+  
+  .sidenav .nav-link {
+    color: #fff;
+  }
+  
+  .navlink{
+    width: 220px;
+  }
+  .sidenav .navlink:hover {
+    background-color: #49BBBD;
+  }
+  
+  .sidenav .navlink.active {
+    background-color: #49BBBD;
+  }
+  
+  .sidenav .border-sky-400 {
+    border-color: #49BBBD !important;
+  }
+  
+  

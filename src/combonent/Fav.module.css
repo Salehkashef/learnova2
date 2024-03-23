@@ -1,0 +1,81 @@
+.imgcard1 {
+  background-color: #c8ebeb;
+  width: 30%;
+  margin-left: 35%;
+  height: 55px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imgcard {
+  width: 30%;
+  margin-left: 35%;
+  height: 55px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgcard img {
+  width: 80px;
+}
+.imgcard3 {
+  background-color: #e2f0ff;
+  width: 30%;
+  margin-left: 35%;
+  height: 55px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imgcard4 {
+  background-color: #b3efea;
+  width: 30%;
+  margin-left: 35%;
+  height: 55px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imgcard5 {
+  background-color: #fcddb4;
+  width: 30%;
+  margin-left: 35%;
+  height: 55px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imgcard6 {
+  background-color: #fad0ce;
+  width: 30%;
+  margin-left: 35%;
+  height: 55px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imgcard7 {
+  background-color: #bebec6;
+  width: 30%;
+  margin-left: 35%;
+  height: 55px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cards {
+  transition: transform 0.3s ease;
+}
+
+.cards:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}

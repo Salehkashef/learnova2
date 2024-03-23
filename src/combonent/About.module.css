@@ -1,0 +1,31 @@
+.Aimg{
+    border-radius: 8px;
+    width: 550px;
+   
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.backimg{
+    width: 570px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 395px; 
+    background-image: url(../assets/img/Group444.png);
+}
+.About{
+    margin-left: -1px !important;
+    width: 100%;
+    height: 500px;
+
+}
+.ahtext{
+   padding: 20px;
+}
+.atext{
+    margin-top: 25px;
+    margin-left: -30px;
+}
